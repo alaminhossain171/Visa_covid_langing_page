@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+h4,h2{
+    color: #6C63FF;
+    font-weight: 700;
+}
+p{
+   font-size: 15px;
+}
+
+.nav-item{
+    font-weight: 700;
+}
+.top-banner{
+   
+    background-image: url(../img/banner-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.download-btn{
+    background: #6C63FF 0% 0% no-repeat padding-box;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+    font-size: 20px;
+}
+.line{
+    margin-top: 10px;
+    height: 5px;
+    width: 120px;
+   background-color: #6C63FF;
+   border-radius: 5px;
+}
+.card-icon{
+
+    height: 50pt;
+    width: 50pt;
+}
+
+.card-width{
+    width: 90%;
+}
